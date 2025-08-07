@@ -48,8 +48,24 @@
         background-color:rgb(30, 29, 29) ;
         display: grid;
         grid-auto-flow: column;
-        coluun
+        column:auto
         }
         
+        image{
+            margin: 100px 25px 100px 100px;
+
+        }
     
+    
+        #textoconteudo{
+            text-align: justify;
+            font-size: 40px;
+            font-weight: bolder;
+            margin: 260px;
+        }
         
+        #imagen, #textoconteudo, #formulario,
+        
+
+
+        #formulario 
