@@ -65,6 +65,21 @@
         }
         
         #imagen, #textoconteudo, #formulario,
+        buttom{
+            backgroundcolor: #c07212;
+            height: 70px;
+            with: 220px;
+            color: #eaece5;
+            border: 0px;
+
+
+            bottom: 100px;
+            fonte wight: boulder;
+            fonte-size: 20px;
+            cursor pointer;
+        }
+
+                
         
 
 
